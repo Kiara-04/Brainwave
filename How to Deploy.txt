@@ -1,0 +1,5 @@
+use command:
+
+npm run build
+
+Then use the optimised files it creates for deployment.
